@@ -14,4 +14,4 @@
 ```
 
 
-## Note please download this repo directly and follow instructions on the main .ipynb notebook provided. We have not added the code of that .ipynb notebook in this repo as of yet!
+## Note please download this repo directly and follow instructions on the main .ipynb notebook provided. You can also use sample.py for batch generation. 
